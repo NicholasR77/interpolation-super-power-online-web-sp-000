@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
-display_rainbow(colors_arr)
-  
+def display_rainbow(colors_arr)
+
 end
